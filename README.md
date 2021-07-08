@@ -13,3 +13,4 @@ Multidimensional quadrature is hard. Computers are fast. Let's see who wins.
 * [GAIL](https://github.com/GailGithub/GAIL_Dev.git) (Guaranteed Automatic Integration Library) Implemented in Matlab.
 * [Cuba](http://www.feynarts.de/cuba/) library for multidimensional numerical integration. Includes Vegas, Quasi Monte Carlo, and grid-based algorithms.
 * [Cubature](https://github.com/stevengj/cubature) C package for adaptive multidimensional integration
+* [Quasi-Monte Carlo Community Software](https://github.com/QMCSoftware/QMCSoftware) Python implmentation of quasi-Monte Carlo algorithms
