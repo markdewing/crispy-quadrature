@@ -88,6 +88,7 @@ if __name__ == '__main__':
     # ---------------------
     # Exponential integrand
     # ---------------------
-    val = trapn_cc(6, n, exp_fn)
+    ndim = 6
+    val = trapn_cc(ndim, n, exp_fn)
     print('Integrated value: ',val, ' Difference: ',val-e)
 
