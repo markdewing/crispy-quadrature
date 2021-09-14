@@ -2,7 +2,8 @@
 Multidimensional quadrature is hard. Computers are fast. Let's see who wins.
 
 ## Contents
-[python](python/Readme.md) - Implementions in Python
+* [python](python/Readme.md) - Implementions in Python
+* [cpp](cpp) - Implementations in C++
 
 ## Useful other codes
 
